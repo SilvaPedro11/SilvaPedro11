@@ -3,10 +3,8 @@
 
 <p align="center">
 <a href="https://github.com/opedromendoncas">
-<img height="180em" src="![Minhas estatísticas no Github]https://github-readme-stats-eight-theta.vercel.app/api?username=opedromendoncas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src=![Linguagens que eu programo]"https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=opedromendoncas&layout=compact&langs_count=8&theme=algolia"/>
+![Minhas estatíticas](https://github-readme-stats.vercel.app/api?username=opedromendoncas&show_icons=true&theme=algolia)
 </a>
 </p>
-
 ![Snake animation](https://github.com/opedromendoncas/opedromendoncas/blob/output/github-contribution-grid-snake.svg)
 
