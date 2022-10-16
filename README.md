@@ -11,7 +11,7 @@
 - 📫 Você pode entrar em contato comgigo em *mendonca.pedroaugusto11@gmail.com* e conhecer meus projetos que estão disponíveis aqui nos repositórios.
 
 
-<br><br>
+<br>
 
 <h1>Conecte-se comigo</h1>
 <p align="left">
@@ -21,7 +21,7 @@
     <a href="mendonca.pedroaugusto11@gmail.com" target="_blank"><img src="https://i.postimg.cc/W3PRZLry/email.png" alt="Email" height="40" width="40"/></a>
 </p>
 
-<br><br>
+<br>
 
 <h1>Linguaguens e ferramentas</h1>
 <p align="left">
@@ -36,7 +36,7 @@
 </p>
 
 
-<br><br>
+<br>
 
 
 <h1>📈 Estatísticas Github</h1>
@@ -47,7 +47,7 @@
 </p>
 
 
-<br><br>
+<br>
 
 ![Snake animation](https://github.com/opedromendoncas/opedromendoncas/blob/output/github-contribution-grid-snake.svg)
 
