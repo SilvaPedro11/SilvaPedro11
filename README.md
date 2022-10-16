@@ -18,7 +18,6 @@
     <a href="https://www.instagram.com/opedromendoncas/" target="_blank"><img src="https://i.postimg.cc/N0fjZXLD/instagram.png" alt="Instagram" height="40" width="40"/></a> 
     <a href="https://www.linkedin.com/in/opedromendoncas/" target="_blank"><img src="https://i.postimg.cc/qRNMvdsC/linkedin.png" alt="Linkedin" height="40" width="40"/></a> 
     <a href="https://twitter.com/opedromendoncas" target="_blank"><img src="https://i.postimg.cc/YSnC7SWH/twitter.png" alt="Twitter" height="40" width="40"/></a> 
-    <a href="mendonca.pedroaugusto11@gmail.com" target="_blank"><img src="https://i.postimg.cc/W3PRZLry/email.png" alt="Email" height="40" width="40"/></a>
 </p>
 
 <br>
