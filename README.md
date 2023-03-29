@@ -8,7 +8,7 @@
 - 💻 Atualmente estou trabalhando em projetos pessoais e acadêmicos
 - 📚 Atualmente estou estudando Desenvolvimento de Sistemas na <a href="https://www.vestibulinhoetec.com.br//">Etec</a>
 - ⚡ Curiosidade: Adoro games 🎮 
-- 📫 Você pode entrar em contato comigo em *mendonca.pedroaugusto11@gmail.com* e conhecer meus projetos que estão disponíveis aqui nos repositórios.
+- 📫 Você pode entrar em contato comigo em *silvapedro.augusto11@gmail.com* e conhecer meus projetos que estão disponíveis aqui nos repositórios.
 
 
 <br>
