@@ -1,6 +1,6 @@
 <h1 align="center">Oi! 👋 Eu sou Pedro Mendonça</h1>
 <h2 align="center">Bem vindo ao meu perfil!</h2><br>
-<h3 align="left">Eu tenho 18 anos, moro em São Paulo/SP e sou um jovem iniciante no mundo da programação, apaixonado por tecnologias.  </h3><br>
+<h3 align="left">Eu tenho 19 anos, moro em São Paulo/SP e sou um jovem iniciante no mundo da programação, apaixonado por tecnologias.  </h3><br>
 
 
 <img align="right" height="150  " src = "https://miro.medium.com/max/1400/1*Vq0sQ79QIZV6V1R-t7qtmw.gif">
