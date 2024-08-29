@@ -5,7 +5,7 @@
 
 <img align="right" height="150  " src = "https://miro.medium.com/max/1400/1*Vq0sQ79QIZV6V1R-t7qtmw.gif">
 
-- 💻 Atualmente estou trabalhando em projetos pessoais.
+- 💻 Atualmente estou cursando Engenharia de Software e trabalhando em projetos pessoais.
 - ⚡ Curiosidade: Adoro games 🎮 
 - 📫 Você pode entrar em contato comigo em *silvapedro.augusto11@gmail.com* e conhecer meus projetos que estão disponíveis aqui nos repositórios.
 
